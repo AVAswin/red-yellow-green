@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+.wrapper {
+    justify-content: center;
+}
+
+button {
+    font-size: 25px;
+}
